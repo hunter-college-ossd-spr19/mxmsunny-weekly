@@ -1,0 +1,20 @@
+---
+layout: post
+title: Week 10
+---
+
+This week, we will start contributing to [Wikipedia!](https://en.wikipedia.org/wiki/Main_Page), which is more or less everyone's go to online encylopedia. Because people can anonymously edit the information on Wikipedia pages, they can easily post false information, which established this skepticism amongst people on whether one should think Wikipedia is a reliable source. I digress, I hope that my future contributions will be helpful to those browsing the pages I edited in Wikipedia.
+
+Before contributing to Wikipedia, we were tasked to read [Contributing to Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia#Getting_started) and [A Primer for Newcomers](https://en.wikipedia.org/wiki/Wikipedia:A_primer_for_newcomers) as a guide.
+
+Starting with the primer, it is a beginner-friendly, easy to understand introduction to the "rules" of Wikipedia, which is also a summary of the guidelines. These rules are as follow:
+
+1. Wikipedia is an encylopedia
+2. Wikipedia requires a **neutral** POV
+3. Wikipedia is free content that anyone can edit and distribute
+4. Wikipedians should always be polite to each other
+5. Wikipedia does **not** have firm rules, besides these five listed
+
+When contributing to a Wikipedia article, there are two different text editors you can choose from: [wiki markup](https://en.wikipedia.org/wiki/Help:Wikitext) or [VisualEditor](https://en.wikipedia.org/wiki/Wikipedia:VisualEditor). The latter is intended to be a more user-friendly text editor in which what you see is what you get. Additionally, you must add references and sources to substantiate your edits since it boosts the logos aspect of the article. The Contributing to Wikipedia page also teaches editors how to add images, videos, and talks about collaboration groups and active discussions.
+
+I am still looking for Wikipedia pages to edit, but I feel like I would contribute to pages that are related to games, such as Pokemon, or cartoons and shows that I have watched before and participated in discussions. For the OSNY App, I am currently still testing out Andrey's pull request, and then maybe try to start on the icon and smaller tasks, or maybe even try helping out with the backend! I wish to see us all succeed.
